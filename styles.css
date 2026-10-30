@@ -10,3 +10,25 @@ h1,h2{
     color: #444444;
     center-align: center;
 }
+
+.tip{
+    color: #ecafaf;
+    background-color: #b3f6d7;
+    padding: 20px;  
+    font-style: italic;
+    margin: 20px 0;
+
+}
+ .best-seller{
+    color: #ecafaf;
+    background-color: #b3f6d7;
+    padding: 20px;  
+    font-style: italic;
+    margin: 20px 0;
+ }
+
+ img {
+    
+    margin: 20px auto;
+    border-radius: 20px solid #ecafaf;
+ }
